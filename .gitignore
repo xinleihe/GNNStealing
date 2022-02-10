@@ -1,0 +1,15 @@
+
+
+# files
+*.pyc
+*.tar.gz
+*.log
+
+# folders
+dataset/
+log/
+.empty/
+results/
+results*/
+target_model_*/
+GraphGallery-1.0.0/
