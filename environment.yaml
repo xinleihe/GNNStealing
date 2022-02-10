@@ -179,4 +179,3 @@ dependencies:
     - smart-open==5.2.1
     - tabulate==0.8.9
     - yacs==0.1.8
-prefix: /home/xinlei.he/anaconda3/envs/gnn_model_stealing
